@@ -1,0 +1,12 @@
+{
+    "name": "nicholas/o-auth-wp-test",
+    "authors": [
+        {
+            "name": "Nícholas André",
+            "email": "nicholas.andre@10up.com"
+        }
+    ],
+    "require": {
+        "risan/oauth1": "^1.3"
+    }
+}
